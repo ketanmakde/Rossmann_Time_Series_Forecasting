@@ -7,3 +7,5 @@ Rossmann is a European drug distributor which operates over 3,000 drug stores ac
 As expected, store sales are influenced by many factors, including promotional campaigns, competition, state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances and intuitions, the accuracy of the forecasts is quite varied. Build a forecasting model to forecast the daily sales for the next six weeks. To help you with the same, you have been provided with historical sales data for 1,115 Rossmann stores.
 
 Since the company is just embarking on this project, the scope has been kept to nine key stores across Europe. The stores are key for the company keeping in mind the revenue and historical prestige associated with them. These stores are numbered - 1,3,8,9,13,25,29,31 and 46.
+
+![image](https://user-images.githubusercontent.com/113192125/231377185-cea1adab-475f-480e-aeab-cd93df547af1.png)
